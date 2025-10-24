@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
     <h2>This is temporary set up for app</h2>
-    <Button>Use</Button>
+    <Button>enter</Button>
     <Button onClick={() => setTheme('dark')}>Dark Mode</Button>
     <Button onClick={() => setTheme('light')}>Light Mode</Button>
     </div>
